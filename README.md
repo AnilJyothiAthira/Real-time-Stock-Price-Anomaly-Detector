@@ -41,16 +41,13 @@ The script fetches hourly data for the past 5 days, detects anomalies, prints al
 
 
 ## Output Example
-
+![Screenshot 1](ss.png)
 
 
 📊 Visualization of stock price with anomalies marked:
+![Screenshot 2](FIgure_1.png)
+![Screenshot 3](FIgure_2.png)
 
-![Sample Anomaly Plot](./screenshots/anomaly_plot_aapl.png)
-
-*Replace the above path with your actual screenshot path*
-
----
 
 ## Project Structure
 
@@ -73,9 +70,5 @@ stock_anomaly_detector/
 
 Anil Jyothi Athira — [22211a0518@bvrit.ac.in)
 
----
 
-*Feel free to open issues or submit pull requests!*
-
-```
 
