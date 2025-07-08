@@ -45,8 +45,8 @@ The script fetches hourly data for the past 5 days, detects anomalies, prints al
 
 
 📊 Visualization of stock price with anomalies marked:
-![Screenshot 2](FIgure_1.png)
-![Screenshot 3](FIgure_2.png)
+![Screenshot 2](Figure_1.png)
+![Screenshot 3](Figure_2.png)
 
 
 ## Project Structure
